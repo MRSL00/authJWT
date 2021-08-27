@@ -1,6 +1,6 @@
 const Seq = require("sequelize");
 
-const seq = new Seq("cad", "root", "1378mrsl00[]", {
+const seq = new Seq("cad", "root", "", {
   host: "localhost",
   port: 3306,
   dialect: "mysql",
